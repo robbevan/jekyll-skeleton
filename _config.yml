@@ -3,3 +3,4 @@ exclude:
   - CapFile
   - config
   - README.textile
+  - robbevan.com.tmproj
