@@ -4,3 +4,4 @@ exclude:
   - config
   - README.textile
   - robbevan.com.tmproj
+  - script
