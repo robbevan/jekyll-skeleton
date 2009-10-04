@@ -2,6 +2,8 @@ pygments: true
 exclude:
   - CapFile
   - config
+  - Rakefile
   - README.textile
+  - robbevan.com.taskpaper
   - robbevan.com.tmproj
   - script
