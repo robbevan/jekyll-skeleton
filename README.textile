@@ -1,0 +1,4 @@
+My starting point for all Jekyll-based sites 
+
+Uses Capistrano for deployment (via copy), a couple of scripts to install Blueprint CSS and jQuery and a Rails-like script/server for running Jekyll
+
